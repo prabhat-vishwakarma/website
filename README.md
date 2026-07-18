@@ -1,4 +1,4 @@
-# Personal Portfolio — Prabhat Vishwakarma
+# Personal Portfolio
 
 A simple, single-page introduction website with a minimalist, Notion-inspired
 design (warm off-white canvas, Inter typeface, clean typography). No header,
