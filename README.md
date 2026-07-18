@@ -9,10 +9,8 @@ no footer — just the content.
 ```
 website/
 ├── index.html      # Page content and structure
-├── css/
-│   └── style.css   # Notion-inspired styling and design tokens
-├── js/
-│   └── main.js     # Subtle fade-in on load
+├── style.css       # Notion-inspired styling and design tokens
+├── main.js         # Subtle fade-in on load
 └── README.md
 ```
 
